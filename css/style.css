@@ -238,6 +238,7 @@ header ul li:before {
   text-align: center;
   font-weight: 300;
   cursor: pointer;
+  transition: .25s all ease;
 }
 .content .info-tabcontent .description-btn:hover {
   box-shadow: 0px 0px 5px #c78030;
@@ -501,9 +502,10 @@ header ul li:before {
   font-size: 18px;
   color: #c78030;
   cursor: pointer;
+  transition: .25s all ease;
 }
 .content .more:hover {
-  box-shadow: 0 0 10px #c78030;
+  box-shadow: 0 0 7px #c78030;
 }
 .content .contact {
   width: 86%;
@@ -562,9 +564,10 @@ header ul li:before {
   border: 1px solid #c78030;
   color: #c78030;
   cursor: pointer;
+  transition: .25s all ease;
 }
 .content .contact-form form button:hover {
-  box-shadow: 0 0 10px #c78030;
+  box-shadow: 0 0 7px #c78030;
 }
 .content footer {
   width: 100%;
@@ -598,9 +601,10 @@ header ul li:before {
   height: 70px;
   border: 1px solid rgba(199, 128, 48, 0.5);
   margin-right: 15px;
+  transition: .25s all ease;
 }
 .content footer .social .social-block:hover {
-  box-shadow: 0 0 10px #c78030;
+  box-shadow: 0 0 7px #c78030;
 }
 .content footer .social .social-block a img {
   width: 50%;
